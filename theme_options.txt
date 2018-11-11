@@ -1,8 +1,0 @@
-Based on browsing: pelicanthemes.com
-
-1. Flex - similar to Edwin Chen's but a big less pretty and no log of recent posts in left bar
-2. pelican-striped-html5up : similar format. Calendar that tags to when posts were written. Log of recent posts. Pretty but simple
-3. SoMA or SoMA2 - edwin's theme is the first
-4. taman: simple and clean
-5. uikit: very dev like and faq seeming site
-6. casper2pelican: minimalist
