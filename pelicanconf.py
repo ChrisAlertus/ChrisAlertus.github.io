@@ -48,11 +48,12 @@ TWITTER_USERNAME = "@4lertus"
 PROFILE_IMG = '\\img\\bday_headshot_26.jpg'
 ABOUT_ME = '/pages/about-me.html'
 DISQUS_SITENAME = 'chrisalertus-github-io.disqus.com/'
+# CSS_FILE = "prism.css"
 # end
 
 # PLUGINS
 PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['neighbors']
+PLUGINS = ['neighbors','i18n_subsites']
 
 STATIC_PATHS = ['img', 'pdf']
 
