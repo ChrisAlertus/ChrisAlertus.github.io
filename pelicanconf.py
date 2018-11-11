@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Chris Alert'
 SITENAME = 'The Learning Alert'
-SITESUBTITLE = 'Thoughts, writings, notes and quotes.'
+SITESUBTITLE = ''
 SITEURL = '' # 'ChrisAlertus.github.io'
 
 PATH = 'content'
@@ -42,8 +42,17 @@ DEFAULT_PAGINATION = False
 # THEME
 THEME = "SoMA"
 
+# THEME VARIABLES
+GITHUB_URL = "https://github.com/ChrisAlertus/chrisalertus.github.io"
+TWITTER_USERNAME = "@4lertus"
+PROFILE_IMG = '\\img\\bday_headshot_26.jpg'
+ABOUT_ME = '/pages/about-me.html'
+DISQUS_SITENAME = 'chrisalertus-github-io.disqus.com/'
+# end
+
 # PLUGINS
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['neighbors']
 
 STATIC_PATHS = ['img', 'pdf']
+
